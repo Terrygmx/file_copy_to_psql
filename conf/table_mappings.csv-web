@@ -1,0 +1,6 @@
+数据文件名称	数据表名称	table_type(数据表类型)	need_addup_stat_date（0表示需要补充日期）	delimiter(分隔符）
+dwi_res_nac_code_num_dt	DWI_RES_NAC_CODE_NUM_DT	1	0	,
+dwi_usr_pesn_persn_loc_ds	DWI_USR_PESN_PERSN_LOC_DS	1	0	,
+rpt_nq202006392_user_arpu	RPT_NQ202006392	1	0	,
+rpt_nq202106518_user_ms	RPT_NQ202106518_USER_MS	1	0	,
+rpt_sxw_nq201912676_user_ms	RPT_SXW_NQ201912676_USER_MS	1	0	,

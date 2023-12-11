@@ -1,0 +1,5 @@
+{
+	"name":"psql_copy_py_app",
+	"output_path" : "/data/CP2/app/whitelist_copy_to_cpdb_af/psql_copy.log",
+	"log_level": "DEBUG"
+}
